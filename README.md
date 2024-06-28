@@ -1,1 +1,2 @@
-# Expense-tracker-
+# Expense_Tracker
+Expense_Tracker_Application
